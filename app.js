@@ -247,3 +247,7 @@ function filterCategory(category) {
     const filteredProducts = products.filter(item => item.category === category); // Filter products by category
     renderItems(filteredProducts); // Display filtered products
 }
+
+
+
+//todo Filter-Product-assignment
